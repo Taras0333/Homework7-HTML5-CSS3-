@@ -18,6 +18,8 @@ body{
 	background-color: green;
 	width: 30.5555556%;
 	order: 3;
+	margin-bottom: 1.67%;
+	margin-top: 3.84%;
 }
 .mid-bar{
 	background-color: yellow;
@@ -41,28 +43,36 @@ body{
 .logo{
 	width: 35.6060606%;
 	height: 11.971831%;
+	margin-top: 11.861%;
 }
 .house-icon{
 	width: 19.6969697%;
 	height: 3.05164319%;
+	margin-top: 48.74%;
 }
 .heat-icon{
 	width: 21.1742424%;
 	height: 2.61384977%;
+	margin-top: 48.14%;
 }
 .man-icon{
 	width: 17.3409091%;
 	height: 3.05633803%;
+	margin-top: 48.72%;
 }
 .email-icon{
 	width: 19.6515152%;
 	height: 2.67723005%;
+	margin-top: 48.378%;
 }
 .settings-icon{
 	width: 19.6969697%;
 	height: 3.05164319%;
+	margin-top: 48.63%;
 }
 .exit-icon{
 	width: 19.7727273%;
 	height: 3.06455399%;
+	margin-bottom: 30.6%;
+	margin-top: 170.1%;
 }
