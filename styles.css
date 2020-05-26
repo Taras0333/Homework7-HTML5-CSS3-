@@ -220,8 +220,7 @@ cursor: pointer;
 	width: 43.0555556%;
 	order: 2;
 	margin-right: 4.44861111%;
-	border: 1px solid green;
-	min-height: 858px;
+	min-height: 900px;
 	display: flex;
 	flex-direction: column;
 	position: relative;
@@ -274,7 +273,7 @@ header{
 	margin: 8px 23px 8px 8.5px;
 }
 .spanish-b2-wrapper{
-	margin-right: 44.5px;
+	margin-right: 36.5px;
 }
 .spanish-b2{
 	font-family: "Baloo Bhai 2";
@@ -292,12 +291,26 @@ header{
 	line-height: 15px;
 	color: #000000;
 }
-.ellipse-icon{
+.ellipse-wrapper{
 	margin-right: 39.5px;
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.persents{
+	position: absolute;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	line-height: 15px;
+	color: #000000;
 }
 .continue-button{
 	background: #000000;
 	border-radius: 8px;
+	border: none;
 	font-family: Roboto;
 	font-style: normal;
 	font-weight: bold;
@@ -307,9 +320,11 @@ header{
 	width: 120px;
 	height: 40px;
 	margin-right: 23.83px;
+	cursor: pointer;
 }
 .arrows-button{
 	margin-left: auto;
+	cursor: pointer;
 }
 .under-header-left{
 	display: flex;
@@ -332,10 +347,12 @@ header{
 	font-size: 24px;
 	line-height: 38px;
 	color: #000000;
+	margin-top: 39.81px;
 }
 .courses-options{
 	display: flex;
 	flex-direction: row;
+	margin-top: 16.24px;
 }
 .courses-options-list{
 	font-family: "Baloo Bhai 2";
@@ -344,6 +361,7 @@ header{
 	font-size: 16px;
 	line-height: 26px;
 	color: #000000;
+	cursor: pointer;
 }
 .with-opacity{
 	font-family: "Baloo Bhai 2";
@@ -364,6 +382,20 @@ header{
 	flex-direction: row;
 	background: #F5F5F7;
 	border-radius: 14px;
+	margin-top: 24px;
+	align-items: center;
+}
+.list-of-courses-left{
+	display: flex;
+	flex-direction: row;
+	width: 65%;
+	align-items: center;
+}
+.list-of-courses-right{
+	display: flex;
+	flex-direction: row;
+	width: 35%;
+	align-items: center;
 }
 .logo-courses-wrapper{
 	height: 64px;
@@ -376,11 +408,65 @@ header{
 	margin: 8px 23px 8px 8.5px;
 
 }
-.list-of-courses{
-	margin-top: 16px;
-}
 .top-course{
-	margin-top: 10.24px;
+	margin-top: 18.24px;
+}
+.courses-titles{
+	font-family: "Baloo Bhai 2";
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 26px;
+	color: #000000;
+}
+.courses-titles-underheader{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	line-height: 15px;
+	color: #000000;
+}
+.clock-icon{
+	margin-left: auto;
+	margin-right: 7.9px;
+}
+.time{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	line-height: 15px;
+	color: #000000;
+	margin-right: 40.78px;
+}
+.time11{
+	margin-right: 33.78px;
+}
+.rate{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	line-height: 15px;
+	color: #000000;
+	margin-left: 10px;
+}
+.view-course{
+	background: #000000;
+	border-radius: 8px;
+	border: none;
+	width: 120px;
+	height: 40px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	line-height: 15px;
+	color: #FFFFFF;
+	margin-left: auto;
+	margin-right: 19.95px;
+	cursor: pointer;
 }
 .menu{
 	background: #000000;
