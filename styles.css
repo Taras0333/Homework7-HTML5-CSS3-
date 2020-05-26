@@ -56,7 +56,6 @@ cursor: pointer;
 	display: flex;
 	flex-direction: row;
 	margin-top: 23.6px;
-
 }
 .first-bracket{
 	display: flex;
@@ -128,7 +127,6 @@ cursor: pointer;
 	line-height: 15px;
 	margin-left: auto;
 	cursor: pointer;
-
 }
 .statistic-title{
 	font-family: "Baloo Bhai 2";
@@ -406,7 +404,6 @@ header{
 	justify-content: center;
 	align-items: center;
 	margin: 8px 23px 8px 8.5px;
-
 }
 .top-course{
 	margin-top: 18.24px;
