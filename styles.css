@@ -320,6 +320,13 @@ header{
 	margin-right: 23.83px;
 	cursor: pointer;
 }
+button:hover{
+	opacity: 0.7;
+}
+button:active{
+	color: black;
+	background-color: #ffffff;
+}
 .arrows-button{
 	margin-left: auto;
 	cursor: pointer;
